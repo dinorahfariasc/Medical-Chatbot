@@ -8,7 +8,7 @@ End to end medical chatbot with generative IA
 Clone the repository
 
 ```bash
-Project repo: https://github.com/
+bash clone https://github.com/dinorahfariasc/Medical-Chatbot.git
 ```
 
 ### Step 01 - Create a conda environment fater openinig the repository
